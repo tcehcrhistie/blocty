@@ -75,7 +75,12 @@ p {
 	font-size: 16px;
 }
 .bye {
-	background-image: url('http://7-themes.com/data_images/out/47/6931148-very-high-resolution-wallpaper.jpg');
+	background-image: url('https://lh3.googleusercontent.com/-ck0wUq0HSqs/WJKvyqYo28I/AAAAAAAAKAA/ABZOPoZb_ykJeO3DqOO0bd1TjP2z1u_cQCL0B/w1060-d-h796-p-rw/WhatsApp%2BImage%2B2017-02-01%2Bat%2B23.01.12.jpeg');
+	  background-repeat: no-repeat;
+		 background-attachment: fixed;
+		 background-position: center;
+		 background-size: cover;
+}
 }
 /* ================================= 
   Base Layout Styles
